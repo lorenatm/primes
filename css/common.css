@@ -1,0 +1,46 @@
+.word{
+	font-family: Open Sans;
+}
+.word-two{
+	font-family: Arial;
+}
+.big-icon{
+	font-size: 3em;
+}
+.small-icon{
+	font-size: 2em;
+	display: inline-block;
+}
+.pb-2{
+	padding-bottom: 2%;
+}
+.pd-2{
+	padding: 2%;
+}
+.pr-0{
+	padding-right: 0px;
+}
+.pd-1{
+	padding: 1%;
+}
+.pb-2-1{
+	padding: 2% 2% 1% 2%;
+}
+.pt-2{
+	padding-top: 2%;
+}
+.pd-3{
+	padding: 3%;
+}
+.pd-10{
+	padding: 10%;
+}
+.bg-dark-gray{
+	background-color:#555;
+}
+.bg-green{
+	background-color: #0dc0c0;
+}
+.medium-icon{
+	font-size: 2em;
+}
